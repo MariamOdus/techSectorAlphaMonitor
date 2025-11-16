@@ -3,7 +3,7 @@ A dynamic equity research tool that correlates "magnificent 7" stock performance
 
 # **US Tech & AI Sector Investment Dashboard**
 
-🔗 **Live App:** _Coming soon — link will be added after Streamlit Cloud deployment._
+🔗 **Live App:** https://mariamodus-techsectoralphamonitor-streamlitfe-nvmlnx.streamlit.app/ 
 
 This project is an interactive equity research tool designed to replicate the workflow of a **Bloomberg Intelligence (BI) Analyst**.
 
